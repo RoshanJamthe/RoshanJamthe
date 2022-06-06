@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoshanJamthe
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Clustering analysis
+- 🌱 I’m currently learning Deep Learning 
+- 💞️ I’m looking to collaborate on computer vision project
 
 <!---
 RoshanJamthe/RoshanJamthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
